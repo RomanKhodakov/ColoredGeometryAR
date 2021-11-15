@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2694047706c40ea4aa50da848d8b53b3, type: 3}
+  m_Name: SphereData
+  m_EditorClassIdentifier: 
+  figureGO: {fileID: 5728359313855286295, guid: 31f757a547d82cd4b8fa15abeb4afe8b, type: 3}
+  figureQrGO: {fileID: 1285229138381209644, guid: fe434b2ea17c80c4c9ba410849c8affd, type: 3}
+  figureMaterial: {fileID: 2100000, guid: bf6994ca79a6b8a419c3a4979f0d5ee5, type: 2}

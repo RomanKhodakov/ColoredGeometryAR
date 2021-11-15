@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26cf49a0fed8ca44196e6277595bcb34, type: 3}
+  m_Name: CubeData
+  m_EditorClassIdentifier: 
+  figureGO: {fileID: 2380741681503344399, guid: 60e80a4299970394f946bf89b6b717fc, type: 3}
+  figureQrGO: {fileID: 9221902260959283524, guid: 52f905add81d0c544be8ab5e57f516bc, type: 3}
+  figureMaterial: {fileID: 2100000, guid: bf6994ca79a6b8a419c3a4979f0d5ee5, type: 2}
